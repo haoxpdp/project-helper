@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    hikari:
+      password: 940330
+      username: haoxp
+    url: jdbc:mysql://192.168.232.137:3306/project_helper?characterEncoding=utf-8&useSSL=false&serverTimezone=GMT%2B8
